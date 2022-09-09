@@ -1,25 +1,26 @@
-# Project No. 11
+# Project No. 11 (Hosting Page)
 
-This is my 11th project of Web Development. The project is designed in such a way that it works on large(Desktop & Laptop) as well as small screens(Mobile Devices). 
+This is my _**11th project**_ of Web Development with **Mobile Responsiveness** using Media Queries. The project is designed in such a way that it works on large(Desktop & Laptop) as well as small screens(Mobile Devices). 
+> [Check out the Deployed link](https://project-11-bice.vercel.app/)
 
 FULL WEBPAGE:
-![Project2](/sc/full.png "proj2 image")
+![Project11](/sc/full.png "proj11 image")
 
 NAVBAR:
-![Project2](nav.PNG "proj2 image")
+![Project11](nav.PNG "proj11 image")
 
 BODY:
-![Project2](sc/body1.PNG "pro21 image")
-![Project2](sc/body2.PNG "pro21 image")
+![Project11](sc/body1.PNG "pro11 image")
+![Project11](sc/body2.PNG "pro11 image")
 
 FOOTER:
-![Project2](sc/foot.PNG "pro21 image")
+![Project11](sc/foot.PNG "pro11 image")
 
 
 ## Technologies Used
 
-![Mascot](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "mascot logo")
-![Mascot](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg "mascot logo")
+![html](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "html")
+![css](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg "css logo")
 
 
 ## What I leaned
